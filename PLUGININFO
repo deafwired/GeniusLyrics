@@ -1,0 +1,4 @@
+Version="1.0.0"
+Authors=['DeafWired']
+Name="Genius Lyrics"
+Description="Adds lyrics from genius to flac and mp3 files"
